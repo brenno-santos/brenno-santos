@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenno-marques-dos-santos-7a7406222/)
 
-![Brenno GitHub stats](https://github-readme-stats.vercel.app/api?username=brenno-santos&show_icons=true&theme=highcontrast)
+![Brenno GitHub stats](https://github-readme-stats.vercel.app/api?username=brenno-santos&hide=contribs&show_icons=true&theme=highcontrast)
 
 ## Hard Skills
 <div style="display: inline_block"><br/>
