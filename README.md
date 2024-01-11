@@ -1,4 +1,4 @@
-### Olá!Eu me chamo Brenno Marques 👋
+### Olá! Eu me chamo Brenno Marques 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenno-marques-dos-santos-7a7406222/)
 
